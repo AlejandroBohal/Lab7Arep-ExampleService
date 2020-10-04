@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_261\jre\..\bin\javadoc.exe" @options @argfile"
+D:\Windows\Documents\OtherService\target\site\apidocs\allclasses-frame.html = 1601843787794
+D:\Windows\Documents\OtherService\target\site\apidocs\allclasses-noframe.html = 1601843787804
+D:\Windows\Documents\OtherService\target\site\apidocs\argfile = 1601843785813
+D:\Windows\Documents\OtherService\target\site\apidocs\constant-values.html = 1601843787587
+D:\Windows\Documents\OtherService\target\site\apidocs\deprecated-list.html = 1601843787762
+D:\Windows\Documents\OtherService\target\site\apidocs\help-doc.html = 1601843787844
+D:\Windows\Documents\OtherService\target\site\apidocs\index-all.html = 1601843787732
+D:\Windows\Documents\OtherService\target\site\apidocs\index.html = 1601843787817
+D:\Windows\Documents\OtherService\target\site\apidocs\options = 1601843785809
+D:\Windows\Documents\OtherService\target\site\apidocs\overview-tree.html = 1601843787694
+D:\Windows\Documents\OtherService\target\site\apidocs\package-list = 1601843787454
+D:\Windows\Documents\OtherService\target\site\apidocs\script.js = 1601843787895
+D:\Windows\Documents\OtherService\target\site\apidocs\stylesheet.css = 1601843787877
